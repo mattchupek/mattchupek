@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Matt, a Data Analyst, and SQL enthusiast.
+I'm Matt, a Data Analyst and SQL enthusiast.
 
 ABOUT Me
 

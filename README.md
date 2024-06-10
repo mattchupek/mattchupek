@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+I'm Matt, a Data Analyst, and SQL enthusiast.
 
-<!--
-**mchupek/mchupek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT Me
 
-Here are some ideas to get you started:
+● 📈 Marketing and Statistics background, with 2 years of professional experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● 📊 Transitioned into Data Analytics in August 2022
+
+● 📈 I love working with numbers and finding insights
+
+● 📉 Driven by an analytical mindset
+
+You can reach me through my LinkedIn: https://www.linkedin.com/in/mattchupek
